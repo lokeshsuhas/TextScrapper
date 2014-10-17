@@ -11,5 +11,5 @@ BootStrap [latest]
 
 See it in Action
 ============
-http://lokeshsuhas.github.io/
+<a href="http://lokeshsuhas.github.io/TextScrapper/">Click here for demo</a>
 
